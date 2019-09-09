@@ -1,3 +1,6 @@
+# Runtime O(n)
+# Memory O(1)
+
 def mergeTwoLists(l1, l2):
         if l1 is None and l2 is None:
             return None

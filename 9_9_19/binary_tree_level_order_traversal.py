@@ -1,3 +1,6 @@
+# Runtime O(n)
+# Memory O(n)
+
 def levelOrder(root):
     if root is None: return []
     fill = []
